@@ -44,4 +44,4 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 ## 最终运行效果
-![Mining screenshot](http://static.runoob.com/images/runoob-logo.png "screenshot")
+![Mining screenshot](https://github.com/Michael20150527/full-mint-website/blob/main/mining.jpg "robot punks minting")
